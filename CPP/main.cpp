@@ -54,6 +54,7 @@ int main(){
     
     /*Output*/
     /*HC*/  
+    cout << endl << "OUTPUT" << endl;
     cout << "PC 'Kom' (HardCode)" << endl;
     kom.printALL();
     /*User*/
