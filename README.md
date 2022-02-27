@@ -10,3 +10,6 @@ Saya Sabian Annaya Havid mengerjakan Latihan dalam mata kuliah Desain Pemograman
 
 # Hasil menjalankan program python
 ![tesPY](https://user-images.githubusercontent.com/99664611/155885361-7cca9085-14a6-4566-857e-354f7b72dbbb.png)
+
+# Hasil menjalankan program JAVA
+![tesJAVAS](https://user-images.githubusercontent.com/99664611/155888573-4f60087e-9506-4461-80f1-4cb8b47898df.png)
